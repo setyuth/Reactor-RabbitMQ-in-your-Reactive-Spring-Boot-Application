@@ -18,7 +18,10 @@ I will build spring boot project from scratch. And I will categorize with 3 modu
 First module is parent pom module as wrapper project, second is the sender module for sender service to 
 send message to rabbitmq broker and the last one is the receiver module for receiver queue message from rabbitmq broker. 
 
-YT: https://www.youtube.com/playlist?list=PLYZvWFacASF_7vWvA5yKhNL8BxvmgN7Fk
-Blogger: https://khmerside.blogspot.com/2022/08/reactor-rabbitmq-in-your-reactive.html
-Medium: https://medium.com/@khmerside/reactor-rabbitmq-in-your-reactive-spring-boot-application-part-1-3da6495d73ec
-FB: https://www.facebook.com/watch/100063605890994/787309449118184/
+- YT: https://www.youtube.com/playlist?list=PLYZvWFacASF_7vWvA5yKhNL8BxvmgN7Fk
+
+- Blogger: https://khmerside.blogspot.com/2022/08/reactor-rabbitmq-in-your-reactive.html
+
+- Medium: https://medium.com/@khmerside/reactor-rabbitmq-in-your-reactive-spring-boot-application-part-1-3da6495d73ec
+
+- FB: https://www.facebook.com/watch/100063605890994/787309449118184/
