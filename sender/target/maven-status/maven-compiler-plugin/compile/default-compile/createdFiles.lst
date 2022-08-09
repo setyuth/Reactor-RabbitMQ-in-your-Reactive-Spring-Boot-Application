@@ -1,0 +1,8 @@
+sender\configuration\RabbitMqSenderConfiguration.class
+sender\configuration\RouterConfguration.class
+sender\handler\ProductHandler.class
+sender\model\Product.class
+sender\model\ProductOrder.class
+sender\dto\ProductDTO.class
+sender\service\ProductService.class
+sender\SenderApplication.class

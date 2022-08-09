@@ -1,0 +1,5 @@
+receiver\ReceiverApplication.class
+receiver\model\ProductOrder.class
+receiver\service\ProderOrderService.class
+receiver\configuration\RabbitMQReceiverConfiguration.class
+receiver\model\Product.class
